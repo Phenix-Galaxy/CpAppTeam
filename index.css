@@ -1,0 +1,549 @@
+.container {
+    max-width: 7.2rem;
+    margin: 0 auto
+}
+
+.page-mobile {
+    min-height: 100%;
+    background: url(background.png) no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: 50%;
+    padding: .001rem
+}
+
+.page-mobile .header {
+    font-size: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0 .48rem;
+    margin-top: .3133rem
+}
+
+.page-mobile .header .logo {
+    height: .5rem
+}
+
+.page-mobile .header .name {
+    font-size: .28rem;
+    color: #fff
+}
+
+.page-mobile .header .nav .mail, .page-mobile .header .nav .privacy, .page-mobile .header .nav .terms {
+    color: #fff;
+    font-weight: 700;
+    font-size: .22rem;
+    line-height: 1.36
+}
+
+.page-mobile .header .nav .mail, .page-mobile .header .nav .privacy {
+    margin-right: .2667rem
+}
+
+.page-mobile .main {
+    font-size: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.page-mobile .main .logo {
+    width: 1.61rem;
+    margin-top: 3.26rem
+}
+
+.page-mobile .main .name {
+    width: 1.16rem;
+    margin-top: .1867rem
+}
+
+.page-mobile .main .desc {
+    max-width: 80%;
+    font-family: HelveticaNeue-LightItalic;
+    font-size: .36rem;
+    color: #fff;
+    letter-spacing: .0373rem;
+    text-align: center;
+    margin-top: .8rem
+}
+
+.page-mobile .main .downloads {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column
+}
+
+.page-mobile .main .appStore, .page-mobile .main .googlePlay {
+    width: 2.6rem;
+    -webkit-border-radius: 6px;
+    border-radius: 6px
+}
+
+.page-mobile .main .appStore {
+    margin: .8067rem 0 .2667rem
+}
+
+.page-mobile .main .googlePlay {
+    margin: 0 0 .2667rem
+}
+
+.container {
+    min-width: 12.8rem
+}
+
+.page-pc {
+    min-height: 100%;
+    background: url(background.png) no-repeat;
+    background-position: 50%;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding: .001rem
+}
+
+.page-pc .header {
+    font-size: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    margin-top: .23rem
+}
+
+.page-pc .header .logo {
+    height: .5rem
+}
+
+.page-pc .header .name {
+    font-size: .2rem;
+    color: #fff
+}
+
+.page-pc .header .nav .mail, .page-pc .header .nav .privacy, .page-pc .header .nav .terms {
+    color: #fff;
+    font-weight: 500;
+    font-size: .14rem
+}
+
+.page-pc .header .nav .mail, .page-pc .header .nav .privacy {
+    margin-right: .2667rem
+}
+
+.page-pc .main {
+    font-size: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.page-pc .main .logo {
+    width: 1.33rem;
+    margin-top: 1.72rem;
+    opacity: 0
+}
+
+.page-pc .main .desc {
+    max-width: 60%;
+    margin-top: .36rem;
+    font-family: HelveticaNeue-LightItalic;
+    font-size: .36rem;
+    color: #000000;
+    letter-spacing: .0373rem;
+    text-align: center
+}
+
+.page-pc .main .downloads {
+    margin-top: .52rem
+}
+
+.page-pc .main .downloads .appStore, .page-pc .main .downloads .googlePlay {
+    width: 1.44rem;
+    -webkit-border-radius: 6px;
+    border-radius: 6px
+}
+
+.page-pc .main .downloads .appStore {
+    margin-right: .2667rem
+}
+
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css*/
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block
+}
+
+footer {
+    block-size: 0
+}
+
+body {
+    line-height: 1
+}
+
+ol, ul {
+    list-style: none
+}
+
+blockquote, q {
+    quotes: none
+}
+
+blockquote:after, blockquote:before, q:after, q:before {
+    content: "";
+    content: none
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    margin: 0
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block
+}
+
+audio, canvas, progress, video {
+    display: inline-block;
+    vertical-align: baseline
+}
+
+audio:not([controls]) {
+    display: none;
+    height: 0
+}
+
+[hidden], template {
+    display: none
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+}
+
+a:active, a:hover {
+    outline: 0
+}
+
+abbr[title] {
+    border-bottom: .01rem dotted
+}
+
+b, strong {
+    font-weight: 700
+}
+
+dfn {
+    font-style: italic
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0
+}
+
+mark {
+    background: #ff0;
+    color: #000
+}
+
+small {
+    font-size: 80%
+}
+
+sub, sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline
+}
+
+sup {
+    top: -.5em
+}
+
+sub {
+    bottom: -.25em
+}
+
+img {
+    border: 0
+}
+
+svg:not(:root) {
+    overflow: hidden
+}
+
+figure {
+    margin: 1em .4rem
+}
+
+hr {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    height: 0
+}
+
+pre {
+    overflow: auto
+}
+
+code, kbd, pre, samp {
+    font-family: monospace, monospace;
+    font-size: 1em
+}
+
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0
+}
+
+button {
+    overflow: visible;
+    border: none;
+    background-color: transparent;
+    padding: 0
+}
+
+button:focus {
+    outline: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+}
+
+button, select {
+    text-transform: none
+}
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer
+}
+
+button[disabled], html input[disabled] {
+    cursor: default
+}
+
+button::-moz-focus-inner, input::-moz-focus-inner {
+    border: 0;
+    padding: 0
+}
+
+input {
+    line-height: normal;
+    background-color: transparent;
+    border: none
+}
+
+input:focus {
+    outline: none
+}
+
+input[type=checkbox], input[type=radio] {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0
+}
+
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
+    height: auto
+}
+
+input[type=search] {
+    -webkit-appearance: textfield;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box
+}
+
+input[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+fieldset {
+    border: .01rem solid silver;
+    margin: 0 .02rem;
+    padding: .35em .625em .75em
+}
+
+legend {
+    border: 0;
+    padding: 0
+}
+
+textarea {
+    overflow: auto
+}
+
+optgroup {
+    font-weight: 700
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+td, th {
+    padding: 0
+}
+
+*, :after, :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit
+}
+
+#app, body, html {
+    width: 100%;
+    height: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.f-cb:after, .f-cbli li:after {
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+    content: "."
+}
+
+.f-cb, .f-cbli li {
+    zoom: 1
+}
+
+.fr {
+    float: right
+}
+
+.ellipsis-1 {
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.ellipsis-2 {
+    -webkit-line-clamp: 2
+}
+
+.ellipsis-2, .ellipsis-3 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden
+}
+
+.ellipsis-3 {
+    -webkit-line-clamp: 3
+}
+
+.u-outer-cont {
+    width: 3rem;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 1rem
+}
+
+.flex-box {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex
+}
+
+.flex-justify-center {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center
+}
+
+.flex-align-center {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center
+}
+
+.flex1 {
+    position: relative;
+    display: block;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+    width: 0
+}
+
+.clearfix {
+    overflow: hidden;
+    _zoom: 1
+}
+
+.page-mobile, .page-pc {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column
+}
+
+.main {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1
+}
