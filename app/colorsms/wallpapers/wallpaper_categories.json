@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Abstract",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/abstract_wallpapers.json"
+        },
+        {
+            "id": 2,
+            "title": "Nature",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/nature_wallpapers.json"
+        },
+        {
+            "id": 3,
+            "title": "Anime",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/animation_wallpaper.json"
+        },
+        {
+            "id": 4,
+            "title": "Gaming",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/gaming_wallpapers.json"
+        },
+        {
+            "id": 5,
+            "title": "Cartoon",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/cartoon_wallpaper.json"
+        },
+        {
+            "id": 6,
+            "title": "Cars",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/car_wallpapers.json"
+        },
+        {
+            "id": 7,
+            "title": "Super Heros",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/super_hero_wallpapers.json"
+        },
+        {
+            "id": 8,
+            "title": "Animals",
+            "url_link": "https://raw.githubusercontent.com/ZeeshanGoaltech/ChargingAnimationOnlineData/refs/heads/main/wallpapers/animals_wallpaper.json"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "theme_name": "Nature",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/01/29/08/30/photo-7752758_640.jpg"
+    },
+    {
+      "id": 2,
+      "theme_name": "Desert",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/06/23/17/46/desert-2435404_1280.jpg"
+    },
+    {
+      "id": 3,
+      "theme_name": "Nature",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg"
+    },
+    {
+      "id": 4,
+      "theme_name": "Road",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/06/16/16/17/road-3478977_640.jpg"
+    },
+    {
+      "id": 5,
+      "theme_name": "Light House",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/10/21/14/50/plouzane-1758197_640.jpg"
+    },
+    {
+      "id": 6,
+      "theme_name": "Sunset",
+      "theme_preview": "https://cdn.pixabay.com/photo/2022/04/15/07/58/sunset-7133867_640.jpg"
+    },
+    {
+      "id": 7,
+      "theme_name": "Hills",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/10/10/07/48/hills-2836301_640.jpg"
+    },
+    {
+      "id": 8,
+      "theme_name": "Winter",
+      "theme_preview": "https://cdn.pixabay.com/photo/2019/02/26/04/04/winter-4021090_640.jpg"
+    },
+    {
+      "id": 9,
+      "theme_name": "Boat",
+      "theme_preview": "https://cdn.pixabay.com/photo/2022/06/06/19/36/boat-7246847_640.jpg"
+    },
+    {
+      "id": 10,
+      "theme_name": "Tree Sunbeams",
+      "theme_preview": "https://cdn.pixabay.com/photo/2024/02/09/23/02/trees-8563877_640.jpg"
+    },
+    {
+      "id": 11,
+      "theme_name": "Tree",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/04/28/22/03/tree-3358468_640.jpg"
+    },
+    {
+      "id": 12,
+      "theme_name": "Clouds",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/06/21/05/01/clouds-6352673_640.jpg"
+    },
+    {
+      "id": 13,
+      "theme_name": "Mountains",
+      "theme_preview": "https://cdn.pixabay.com/photo/2022/07/26/12/43/mountains-7345777_640.jpg"
+    },
+    {
+      "id": 14,
+      "theme_name": "Cliff Coast Sea",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/07/25/14/23/cliff-5436923_640.jpg"
+    },
+    {
+      "id": 15,
+      "theme_name": "Lake Mountain",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/03/08/21/51/lake-3209994_640.jpg"
+    },
+    {
+      "id": 16,
+      "theme_name": "Forest",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/01/30/22/50/forest-3119826_640.jpg"
+    },
+    {
+      "id": 17,
+      "theme_name": "Forest Pathway",
+      "theme_preview": "https://cdn.pixabay.com/photo/2024/04/08/22/31/forest-8684668_640.jpg"
+    },
+    {
+      "id": 18,
+      "theme_name": "London",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/11/22/23/57/london-3833039_640.jpg"
+    },
+    {
+      "id": 19,
+      "theme_name": "Mountains",
+      "theme_preview": "https://cdn.pixabay.com/photo/2024/02/20/13/21/mountains-8585535_640.jpg"
+    },
+    {
+      "id": 20,
+      "theme_name": "Mountains",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/05/15/13/58/mountain-5173654_640.jpg"
+    },
+    {
+      "id": 21,
+      "theme_name": "Nature Sky",
+      "theme_preview": "https://cdn.pixabay.com/photo/2019/05/23/13/08/nature-4223901_640.jpg"
+    },
+    {
+      "id": 22,
+      "theme_name": "Nature Travel",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/10/18/20/18/nature-6722031_1280.jpg"
+    },
+    {
+      "id": 23,
+      "theme_name": "Tree Nature",
+      "theme_preview": "https://cdn.pixabay.com/photo/2024/04/09/22/28/trees-8686902_640.jpg"
+    },
+    {
+      "id": 24,
+      "theme_name": "Tree Nature",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/07/16/09/11/road-2508733_640.jpg"
+    },
+    {
+      "id": 25,
+      "theme_name": "Mystery Nature",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/08/17/01/39/mystery-1599527_1280.jpg"
+    },
+    {
+      "id": 26,
+      "theme_name": "Ruins Castle",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/10/14/13/01/ruin-3746423_640.jpg"
+    },
+    {
+      "id": 27,
+      "theme_name": "Jesus Christ",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/01/31/13/36/jesus-christ-4808082_1280.jpg"
+    },
+    {
+      "id": 28,
+      "theme_name": "Egypt Monument",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/10/26/16/08/egypt-8343019_640.jpg"
+    },
+    {
+      "id": 29,
+      "theme_name": "Eiffel Tower",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/01/22/17/24/paris-2000275_640.jpg"
+    },
+    {
+      "id": 30,
+      "theme_name": "Minaret",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/04/16/22/24/duomo-di-milano-5052524_640.jpg"
+    },
+    {
+      "id": 31,
+      "theme_name": "Colosseum",
+      "theme_preview": "https://media.istockphoto.com/id/1148857816/photo/coliseum-in-rome.jpg"
+    },
+    {
+      "id": 32,
+      "theme_name": "Ruins Sunset",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/08/22/08/17/ruins-6564516_640.jpg"
+    },
+    {
+      "id": 33,
+      "theme_name": "Stonehenge",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/05/15/10/16/stonehenge-3402627_640.jpg"
+    },
+    {
+      "id": 34,
+      "theme_name": "Rain Nature",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/06/25/17/36/rain-1479303_640.jpg"
+    },
+    {
+    "id": 35,
+    "theme_name": "Lighthouse Pier",
+    "theme_preview": "https://cdn.pixabay.com/photo/2021/08/02/17/56/lighthouse-6517457_640.jpg"
+  },
+  {
+    "id": 36,
+    "theme_name": "Ocean",
+    "theme_preview": "https://cdn.pixabay.com/photo/2019/06/01/09/16/ocean-4243709_640.jpg"
+  },
+  {
+    "id": 37,
+    "theme_name": "Path Tree",
+    "theme_preview": "https://cdn.pixabay.com/photo/2022/07/24/14/12/path-7341731_640.jpg"
+  },
+  {
+    "id": 38,
+    "theme_name": "Landscape Nature",
+    "theme_preview": "https://cdn.pixabay.com/photo/2019/11/24/00/48/landscape-4648356_960_720.jpg"
+  },
+  {
+    "id": 39,
+    "theme_name": "Amazing Atmosphere",
+    "theme_preview": "https://cdn.pixabay.com/photo/2020/06/21/09/52/abendstimmung-5324159_640.jpg"
+  },
+  {
+    "id": 40,
+    "theme_name": "Water Landscape",
+    "theme_preview": "https://cdn.pixabay.com/photo/2018/03/29/07/35/water-3271579_640.jpg"
+   }
+ ]
+}
