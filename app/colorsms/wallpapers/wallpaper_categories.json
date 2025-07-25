@@ -1,6 +1,11 @@
 {
     "categories": [
         {
+            "id": 0,
+            "title": "Hot",
+            "url_link": ""
+        },
+        {
             "id": 1,
             "title": "Abstract",
             "url_link": "https://cpappteam.com/app/colorsms//wallpapers/abstract_wallpapers.json"
