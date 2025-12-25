@@ -6,6 +6,11 @@
       "url_link": ""
     },
     {
+      "id": 10,
+      "title": "Christmas",
+      "url_link": "https://cpappteam.com/app/colorsms/wallpapers/christmas_wallpapers.json"
+    },
+    {
       "id": 1,
       "title": "Abstract",
       "url_link": "https://cpappteam.com/app/colorsms/wallpapers/abstract_wallpapers.json"
@@ -49,11 +54,6 @@
       "id": 9,
       "title": "Animals",
       "url_link": "https://cpappteam.com/app/colorsms/wallpapers/animals_wallpaper.json"
-    },
-    {
-      "id": 10,
-      "title": "Christmas",
-      "url_link": "https://cpappteam.com/app/colorsms/wallpapers/christmas_wallpapers.json"
     }
   ]
 }
