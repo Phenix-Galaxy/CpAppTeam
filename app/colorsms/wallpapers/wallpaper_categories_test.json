@@ -7,18 +7,18 @@
     },
     {
       "id": 1,
-      "title": "Christmas",
-      "url_link": "https://cpappteam.com/app/colorsms/wallpapers/christmas_wallpapers.json"
-    },
-    {
-      "id": 2,
       "title": "Abstract",
       "url_link": "https://cpappteam.com/app/colorsms/wallpapers/abstract_wallpapers.json"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Nature",
       "url_link": "https://cpappteam.com/app/colorsms/wallpapers/nature_wallpapers.json"
+    },
+    {
+      "id": 3,
+      "title": "Stock",
+      "url_link": "https://cpappteam.com/app/colorsms/wallpapers/phone_wallpapers.json"
     },
     {
       "id": 4,
@@ -49,6 +49,11 @@
       "id": 9,
       "title": "Animals",
       "url_link": "https://cpappteam.com/app/colorsms/wallpapers/animals_wallpaper.json"
+    },
+    {
+      "id": 10,
+      "title": "Christmas",
+      "url_link": "https://cpappteam.com/app/colorsms/wallpapers/christmas_wallpapers.json"
     }
   ]
 }
