@@ -1,0 +1,12 @@
+[
+  {
+    "name":"Color SMS",
+    "icon":"apps/color-sms.png",
+    "play":"https://play.google.com/store/apps/details?id=YOUR_PACKAGE"
+  },
+  {
+    "name":"Coming Soon",
+    "icon":"apps/app2.png",
+    "play":"#"
+  }
+]
