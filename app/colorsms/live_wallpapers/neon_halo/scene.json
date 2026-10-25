@@ -1,0 +1,30 @@
+﻿{
+    "version":  1,
+    "shader_path":  "scene.glsl",
+    "variables":  {
+                      "speed":  {
+                                    "type":  "float",
+                                    "default":  1.0,
+                                    "min":  0.1,
+                                    "max":  5.0
+                                },
+                      "scale":  {
+                                    "type":  "float",
+                                    "default":  1.0,
+                                    "min":  0.1,
+                                    "max":  2.0
+                                },
+                      "color1":  {
+                                     "type":  "color",
+                                     "default":  "#9C43FE"
+                                 },
+                      "color2":  {
+                                     "type":  "color",
+                                     "default":  "#4CC2E9"
+                                 },
+                      "color3":  {
+                                     "type":  "color",
+                                     "default":  "#101499"
+                                 }
+                  }
+}

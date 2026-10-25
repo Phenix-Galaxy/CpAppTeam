@@ -1,0 +1,50 @@
+﻿{
+    "version":  1,
+    "shader_path":  "scene.glsl",
+    "variables":  {
+                      "film_grain":  {
+                                         "type":  "float",
+                                         "default":  0.2,
+                                         "min":  0.0,
+                                         "max":  0.5
+                                     },
+                      "speed":  {
+                                    "type":  "float",
+                                    "default":  1.0,
+                                    "min":  0.1,
+                                    "max":  10.0
+                                },
+                      "color1":  {
+                                     "type":  "color",
+                                     "default":  "#FFBA89"
+                                 },
+                      "color2":  {
+                                     "type":  "color",
+                                     "default":  "#3162EE"
+                                 },
+                      "color3":  {
+                                     "type":  "color",
+                                     "default":  "#F69292"
+                                 },
+                      "color4":  {
+                                     "type":  "color",
+                                     "default":  "#59f3e4"
+                                 },
+                      "color5":  {
+                                     "type":  "color",
+                                     "default":  "#6931F5"
+                                 },
+                      "color6":  {
+                                     "type":  "color",
+                                     "default":  "#202A32"
+                                 },
+                      "color7":  {
+                                     "type":  "color",
+                                     "default":  "#E93334"
+                                 },
+                      "color8":  {
+                                     "type":  "color",
+                                     "default":  "#E9A04B"
+                                 }
+                  }
+}
